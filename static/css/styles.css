@@ -1,0 +1,99 @@
+body {
+  background-color: transparent;
+}
+table tbody tr td {
+  border: 1px solid black;
+}
+.table-bordered>tbody>tr>td {
+  border-color: gray !important;
+}
+td {
+  padding: 5px;
+  text-align: left;
+  color: white;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: transparent;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: red;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+footer {
+  background-color: transparent;
+  text-align: center;
+  color: red;
+}
+img.signature {
+  padding-top: 100px;
+  padding-bottom: 25px;
+  padding-left: 670px;
+  text-align: center;
+}
+img.signature1 {
+  padding-top: 75px;
+  padding-bottom: 25px;
+  padding-left: 670px;
+  text-align: center;
+}
+h1.index1 {
+  color: lightblue;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+img.index-image {
+  padding-left: 210px;
+}
+img.zombie{
+  height: 289px;
+
+}
+img.forest {
+  height: 330px;
+  width: 420px;
+}
+img.duck {
+  height: 310px;
+  width: 400px;
+}
+img.shark {
+  height: ;
+  width: 420px;
+}
+img.rey {
+  height: 270px;
+  width: 420px;
+}
+img.signature2 {
+  padding-left: 240px;
+}
+.row {
+  margin-bottom: 10px;
+}
+html {
+background: url(../img/background.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+.wrapper {
+  background-color: rgba(114,51,140,0.45);
+  height: 100vh;
+}
+.purple-background {
+  background-color: rgba(114,51,140,0.25);
+}
+.table {
+  margin: 15px;
+}
