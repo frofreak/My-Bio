@@ -74,7 +74,7 @@
 import Gavin from '@/layouts/BioLayout';
 
 export default {
-  name: 'placesvisited.index',
+  name: 'visited.index',
 
   components: {
     Gavin,
